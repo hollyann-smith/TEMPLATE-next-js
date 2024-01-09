@@ -22,6 +22,9 @@ export default function NoAuthNavBar() {
             <Link passHref href="/delete-me">
               <Nav.Link>Delete Me</Nav.Link>
             </Link>
+            <Link passHref href="/count-it">
+              <Nav.Link>Count it</Nav.Link>
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
